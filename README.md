@@ -7,7 +7,7 @@
 
 **IEEE Xplore Link**: https://ieeexplore.ieee.org/document/9116870
 
-**Arxiv Link**: https: https://arxiv.org/abs/1912.05333
+**Arxiv Link**: https://arxiv.org/abs/1912.05333
 
 
 **Abstract**:
